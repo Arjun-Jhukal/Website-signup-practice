@@ -1,0 +1,127 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #dfe7e9;
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.SignUp {
+    background-color: #fdfdfd;
+    /* padding: 180px 126px 234px 126px;
+    border: 1px solid #fdfdfd;*/
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.SignUp h2 {
+    color: #20bd08e3;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+
+.SignUp p {
+    font-size: 18px;
+    text-align: center;
+    color: #999;
+    margin-bottom: 20px;
+}
+
+.btn a {
+    display: inline-block;
+    border-radius: 15px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin-left: 30px;
+}
+
+a:hover {
+    color: #999
+}
+
+#a1 {
+    background-color: #1d0eed;
+    margin-right: 10px;
+}
+
+#a2 {
+    background-color: #7ba2f5;
+    margin-right: 10px;
+}
+
+#a3 {
+    background-color: #fb0505;
+}
+
+.or-seperator {
+    margin: 50px 0px 15px;
+    text-align: center;
+    border-top: 1px solid #e0e0e0;
+}
+
+.or-seperator b {
+    padding: 0 10px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    background: #fff;
+    display: inline-block;
+    border: 1px solid #e0e0e0;
+    border-radius: 50%;
+    position: relative;
+    top: -22px;
+    z-index: 1;
+}
+
+.box-size {
+    margin: 0px 10px;
+}
+
+.box-size input[placeholder] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 186px;
+    padding-left: 14px;
+    text-align: left;
+    font-size: 18px;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 15px;
+}
+
+#type1 {
+    margin-top: 20px;
+}
+
+.signup-btn {
+    padding: 12px 180px;
+    color: #fff;
+    font-size: 18px;
+    text-decoration: bold;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: #17d917;
+    border: 0px;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+}
+
+.footer a {
+    color: #17d917;
+    text-decoration: none;
+}
